@@ -1,0 +1,86 @@
+{
+  "team": "",
+  "roster": [
+    {
+      "id": "1a0d3a402be0y8i3l",
+      "num": "",
+      "name": "Nico"
+    },
+    {
+      "id": "1a0d3a402bfxuej5f",
+      "num": "",
+      "name": "Hayden"
+    },
+    {
+      "id": "1a0d3a402c0uw0q5e",
+      "num": "",
+      "name": "Moses"
+    },
+    {
+      "id": "1a0d3a402c1h35njs",
+      "num": "",
+      "name": "Theo"
+    },
+    {
+      "id": "1a0d3a402c2ewiv43",
+      "num": "",
+      "name": "Adrian"
+    },
+    {
+      "id": "1a0d3a402c34sr05f",
+      "num": "",
+      "name": "Colin"
+    },
+    {
+      "id": "1a0d3a402c4ruy7y7",
+      "num": "",
+      "name": "Beau"
+    },
+    {
+      "id": "1a0d3a402c5msxiqw",
+      "num": "",
+      "name": "Jacob"
+    },
+    {
+      "id": "1a0d3a402c6cuoznk",
+      "num": "",
+      "name": "Adam"
+    },
+    {
+      "id": "1a0d3a402c7jdz6xr",
+      "num": "",
+      "name": "Landon"
+    },
+    {
+      "id": "1a0d3a402c82lzg5u",
+      "num": "",
+      "name": "Brady"
+    }
+  ],
+  "order": [
+    "1a0d3a402be0y8i3l",
+    "1a0d3a402bfxuej5f",
+    "1a0d3a402c0uw0q5e",
+    "1a0d3a402c1h35njs",
+    "1a0d3a402c2ewiv43",
+    "1a0d3a402c34sr05f",
+    "1a0d3a402c4ruy7y7",
+    "1a0d3a402c5msxiqw",
+    "1a0d3a402c6cuoznk",
+    "1a0d3a402c7jdz6xr",
+    "1a0d3a402c82lzg5u"
+  ],
+  "field": {
+    "P": null,
+    "C": null,
+    "1B": null,
+    "2B": null,
+    "3B": null,
+    "SS": null,
+    "LF": null,
+    "CF": null,
+    "RF": null
+  },
+  "lineups": [],
+  "activeId": null
+}
